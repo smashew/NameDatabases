@@ -2,6 +2,8 @@ The names included in this database were collected from a variety of web sites.
 Below are the credits for the lists that have attributions. So far as I know
 none of these databases or lists are copyrighted.
 
+* Basque: Bildu Bizkaia (http://euskalikurra.blogspot.com/) and ListGene
+    (http://listgene.com/antzinako/)
 * Chinese: Ron Young, Alphabetical Index of Chinese Surnames 
     (http://freepages.family.rootsweb.ancestry.com/~chinesesurname/atoz.html)
 * Czech: Mike Campbell, Behind the Name: Czech Surnames
