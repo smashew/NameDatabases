@@ -2,6 +2,7 @@ The names included in this database were collected from a variety of web sites.
 Below are the credits for the lists that have attributions. So far as I know
 none of these databases or lists are copyrighted.
 
+For last names:
 * Basque: Bildu Bizkaia (http://euskalikurra.blogspot.com/) and ListGene
     (http://listgene.com/antzinako/)
 * Chinese: Ron Young, Alphabetical Index of Chinese Surnames 
@@ -29,3 +30,9 @@ none of these databases or lists are copyrighted.
     (http://www.vgd.ru/ENGLISH/a.htm)
 * UK: sofeminine.co.uk, List of the most common surnames
     (http://surname.sofeminine.co.uk/w/surnames/most-common-surnames-in-great-britain.html)
+* US: Princeton University, Intro CS class dataset 
+	(http://www.cs.princeton.edu/introcs/data/surnames.csv)
+
+For first names:
+* US: US Census Bureau (http://www.census.gov/genealogy/www/data/1990surnames/dist.male.first) and
+	Quiet Affiliate (http://www.quietaffiliate.com/free-first-name-and-last-name-databases-csv-and-sql)

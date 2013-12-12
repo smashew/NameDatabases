@@ -1,4 +1,4 @@
-This project contains lists of last names for different cultural groups and countries,
+This project contains lists of first and last names for different cultural groups and countries,
 compiled from data freely available on the internet. There are individual lists for
 each country/culture, listed by the ISO language code for the associated language.
 

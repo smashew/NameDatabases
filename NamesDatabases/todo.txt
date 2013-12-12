@@ -1,0 +1,15 @@
+rumanian
+hungarian
+norwegian
+swedish
+finnish
+danish
+lithuanian
+estonian
+latvian
+serbian
+croatian
+slovenian
+slovak
+persian
+turkish
