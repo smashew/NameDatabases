@@ -36,3 +36,4 @@ For last names:
 For first names:
 * US: US Census Bureau (http://www.census.gov/genealogy/www/data/1990surnames/dist.male.first) and
 	Quiet Affiliate (http://www.quietaffiliate.com/free-first-name-and-last-name-databases-csv-and-sql)
+* Spain: INE (National Statistics Institute): http://www.ine.es/tnombres/formGeneralresult.do
